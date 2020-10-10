@@ -4,4 +4,5 @@ Hello world!
 789
 Good bye.
 тут был про ssh
+line from user2
 line from user1
