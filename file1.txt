@@ -6,3 +6,4 @@ Good bye.
 тут был про ssh
 line from user2
 line from user1
+line user1
